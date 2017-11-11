@@ -1,4 +1,4 @@
-# Welcome to the Impact 101    
+# Welcome to the Impact 101 Handbook
 
-House Rules
+The Impact 101 Handbook
 
