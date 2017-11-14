@@ -1,12 +1,16 @@
 # Summary
 
 * [Introduction](README.md)
-* Purpose
-* Minimal Viable Structure
-* Culture & Values
-* The Value We Bring
-* Roles & Accountabilities
-* The Way We Work
-* Tools
-* Governance Update
+* [Culture & Values](culture-and-values.md)
+* [The Way We Work](the-way-we-work.md)
+* [Governance Update](governance-update.md)
+* [Leadership](leadership.md)
+  * Advisory Board
+  * Operations Team
+  * Circle of Mentors
+  * Community of Supporters
+* Membership
+  * Admission and Exit
+  * Contributions
+  * Co-decision Making
 
