@@ -5,7 +5,7 @@
 * [The Way We Work](the-way-we-work.md)
 * [Governance Update](governance-update.md)
 * [Leadership](leadership.md)
-  * Advisory Board
+  * [Advisory Board](leadership/advisory-board.md)
   * Operations Team
   * Circle of Mentors
   * Community of Supporters
