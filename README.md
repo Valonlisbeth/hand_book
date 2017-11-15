@@ -4,18 +4,19 @@ The Impact 101 handbook is a constantly evolving document that reflects how Impa
 
 In other words, it is the Impact 101's Constitution and ground rules described as follow :
 
-* Minimal Viable Structure
 * Culture & Values
-
-* Roles &  Accountabilities
 
 * The Way We Work
 
-* Tools
+* Leadership
+
+* Membership
 
 * Governance update
 
 ## The value we bring
+
+Testing changes
 
 ## Purpose
 

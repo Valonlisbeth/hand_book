@@ -6,7 +6,7 @@
 * [Governance Update](governance-update.md)
 * [Leadership](leadership.md)
   * [Advisory Board](leadership/advisory-board.md)
-  * Operations Team
+  * [Operations Team](leadership/operations-team.md)
   * Circle of Mentors
   * Community of Supporters
 * Membership
